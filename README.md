@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Naveenaa A K</h3>
+<h3>Register Number: 212222230094</h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -11,7 +11,6 @@
 2.  Initialize the closed list
     put the starting node on the open 
     list (you can leave its f at zero)
-
 
 3.  while the open list is not empty
     a) find the node with the least f on 
@@ -118,3 +117,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+<h2>Result :</h2>
+Thus, A* search algorithm for a Graph was implemented using python programming.
+
